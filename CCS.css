@@ -1,0 +1,26 @@
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	background-color:#CC33FF;
+	font-size:15px;
+	
+}
+
+.menu li {
+    display: inline-block;
+	text-align:justify;
+	
+
+}
+
+.menu li a {
+    display: block;
+    padding: 11px 110px;
+    text-decoration: none;
+    color: #333;
+}
+
+.menu li a:hover {
+    background-color:#FF33CC;
+}
